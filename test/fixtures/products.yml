@@ -2,12 +2,19 @@
 
 one:
   title: MyString
-  description: 
+  description:
   image_url: MyString
   price: 9.99
 
 two:
   title: MyString
-  description: 
+  description:
   image_url: MyString
   price: 9.99
+
+ruby:
+  title:     Programming Ruby 1.9
+  description:
+    A very long long description
+  price:     49.50
+  image_url: ruby.png
